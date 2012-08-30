@@ -1,0 +1,5 @@
+Configuration:
+	/app/config.php
+	
+Database:
+	/huts.sql
